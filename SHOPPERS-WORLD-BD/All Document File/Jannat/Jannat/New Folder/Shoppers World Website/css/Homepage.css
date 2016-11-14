@@ -1,0 +1,191 @@
+
+
+
+    #outline {
+  	background-color: Gainsboro  ;
+	width: 1000px ;
+	height: 2000px;
+	}
+
+
+#mainhead {
+  	background-color: White  ;
+	width: 1000px ;
+	height: 100px;
+	}
+
+
+
+
+
+#head1 {
+  	background-color: White  ;
+	width: 500px ;
+	height: 50px;
+	margin-left:100px;
+	
+	}
+
+
+
+
+
+
+#logo {
+  	background-color: White  ;
+	margin-left:10px;
+	margin-top:-120px;
+	width: 140px ;
+	height: 150px;
+	}
+
+
+#searchbutton {
+  	background-color: White  ;
+	width: 350px ;
+	height: 80px;
+	margin-left:600px;
+	margin-top:-90px;
+	
+	}
+
+
+
+
+
+#head2 {
+  	background-color: White    ;
+	width: 1000px ;
+	height: 30px;
+	margin-top:-20px ;
+	}
+
+
+
+#nav1 {
+  	background-color: DeepSkyBlue    ;
+	border-radius: 10px;
+    	padding: 5px; 
+    	width: 128px;
+    	height: 20px; 
+	text-align:center;
+	color:white;
+	font-family: calibri;
+	}
+
+
+
+#nav2 {
+  	background-color: DeepSkyBlue    ;
+	border-radius: 10px;
+    	padding: 5px; 
+    	width: 128px;
+    	height: 20px; 
+	text-align:center;
+	color:white;
+	font-family: calibri;
+	margin-left: 140px ;
+	margin-top:-46px ;
+	}
+
+
+
+#nav3 {
+  	background-color: DeepSkyBlue    ;
+	border-radius: 10px;
+    	padding: 5px; 
+    	width: 128px;
+    	height: 20px; 
+	text-align:center;
+	color:white;
+	font-family: calibri;
+	margin-left: 280px ;
+	margin-top:-46px ;
+	}
+
+#nav4 {
+  	background-color: DeepSkyBlue   ;
+	border-radius: 10px;
+    	padding: 5px; 
+    	width: 148px;
+    	height: 20px; 
+	text-align:center;
+	color:white;
+	font-family: calibri;
+	margin-left: 420px ;
+	margin-top:-46px ;
+	}
+
+#nav5 {
+  	background-color: DeepSkyBlue    ;
+	border-radius: 10px;
+    	padding: 5px; 
+    	width: 128px;
+    	height: 20px; 
+	text-align:center;
+	color:white;
+	font-family: calibri;
+	margin-left: 580px ;
+	margin-top:-46px ;
+	}
+
+#nav6 {
+  	background-color: DeepSkyBlue    ;
+	border-radius: 10px;
+    	padding: 5px; 
+    	width: 128px;
+    	height: 20px; 
+	text-align:center;
+	color:white;
+	font-family: calibri;
+	margin-left: 720px ;
+	margin-top:-46px ;
+	}
+
+
+#nav7 {
+  	background-color: DeepSkyBlue    ;
+	border-radius: 10px;
+    	padding: 5px; 
+    	width: 128px;
+    	height: 20px; 
+	text-align:center;
+	color:white;
+	font-family: calibri;
+	margin-left: 860px ;
+	margin-top:-46px ;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#scoral {
+  	background-color: White  ;
+	width: 1000px ;
+	height: 20px;
+	color:red ;
+	}
+
+
+
+
+
+
+
+#footer {
+  	background-color: White  ;
+	width: 1000px ;
+	height: 200px;
+	color:red ;
+	background-color: DimGray     ;
+	}
+

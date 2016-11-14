@@ -1,0 +1,14 @@
+**Edit Joomla / Viruemart Registration Form**
+---------------------------------------------
+
+1. Using Custom Field 
+
+2.Regisration for Privilege Card / Registration for Marketing Partners (write-down to top of the SUBMIT BUTTON)
+
+3.Upload User Picture in  Registration form  
+
+4.Show User Picture in Report....fetch form database
+
+5. login with facebook / twitter account
+
+  
