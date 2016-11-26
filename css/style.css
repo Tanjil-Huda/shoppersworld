@@ -243,11 +243,11 @@ ul.multi-column-dropdown h6 {
 }
 .banner-bottom-middle{
     
-	width: 42%;
+	width: 40%;
 	float: left;
 	height: 100%;
 	margin-top: 110px;
-	margin-left: 56px;
+	margin-left: 40px;
 
 }
 .banner-bottom-middle img{
@@ -257,9 +257,9 @@ ul.multi-column-dropdown h6 {
 }
 .banner-bottom-right{
 	float:right;
-	width: 30%;
+	width: 23%;
 /*	background-color: blue;*/
-    margin-right: 3px;
+    margin-right: 0px;
 }
 .banner-bottom-left h2 {
     font-size: 90px;
@@ -526,6 +526,7 @@ ul.multi-column-dropdown h6 {
 .online-strip p {
 	font-size:0.95em;
 }
+/*
 a.twitter {
 	width: 25px;
 	height: 25px;
@@ -534,24 +535,26 @@ a.twitter {
 	margin:0 1em;
 	  vertical-align: text-bottom;
 }
-a.gmail {
-	width: 40px;
-	height: 27px;
-	background: url(../images/follow-gmail.png) no-repeat 0px 0px;
+*/
+a.facebook {
+	width: 35px;
+	height: 25px;
+	background: url(../images/facebookIcon.png) no-repeat 0px 0px;
+	display: inline-block;
+	  vertical-align: text-bottom;
+}
+a.twitter {
+	width: 35px;
+	height: 25px;
+	background: url(../images/twitter.png) no-repeat 0px 0px;
 	display: inline-block;
 	margin:0 1em;
 	  vertical-align: text-bottom;
 }
-a.gmail,a.twitter:hover,a.facebook:hover {
+a.twitter:hover,a.facebook:hover {
 	opacity:1;
 }
-a.facebook {
-	width: 25px;
-	height: 25px;
-	background: url(../images/follow.png) no-repeat -25px 0px;
-	display: inline-block;
-	  vertical-align: text-bottom;
-}
+
 /*-- online-strip --*/
 h3.head.text-center {
     font-size: 35px;
